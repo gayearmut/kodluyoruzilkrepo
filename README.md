@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 
-[Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) eğitimi kapsamında oluşturduğum ilk repo. İçerisinde bir addet README dosyası, bir adet index.html barındırıyor.
+[Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) eğitimi kapsamında oluşturduğum ilk repo.
 
 ![Lorem Picsum Gorsel](https://i.pinimg.com/564x/23/54/b6/2354b6f009935cf767b285f0bcebe35f.jpg)
 
